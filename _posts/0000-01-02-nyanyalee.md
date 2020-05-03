@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to your second slide!"
 Your text
-Use the left arrow to back!
+Training on github is fun
